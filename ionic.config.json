@@ -1,0 +1,7 @@
+{
+  "name": "childstodolist",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
